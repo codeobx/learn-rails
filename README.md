@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # learn-rails
 Kehoe tutorial
 =======
@@ -26,4 +25,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> Initial commit
+
